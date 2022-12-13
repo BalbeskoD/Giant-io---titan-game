@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a72f02b69a48bbac6bedc2bf72de73, type: 3}
+  m_Name: EnemySettings
+  m_EditorClassIdentifier: 
+  names:
+  - RINER
+  - MIKASA
+  - ARMIN
+  - BERTH
+  - ARLERT
+  - JEN
+  - SHADIS
+  - GRISHA
+  - JEGER
+  - ERVIN
+  colors:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0.93200797, b: 0.0037735105, a: 1}
+  - {r: 0.1624999, g: 1, b: 0, a: 1}
+  - {r: 0.92156863, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0.8989897, a: 1}
+  - {r: 0, g: 0.2474227, b: 1, a: 1}
+  - {r: 0, g: 1, b: 0.94186044, a: 1}
+  - {r: 0.5770397, g: 0, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  levelProgressItems:
+  - levelProgress: 10
+    levelSpeed: 4
+  - levelProgress: 15
+    levelSpeed: 5
+  - levelProgress: 10
+    levelSpeed: 6
+  - levelProgress: 15
+    levelSpeed: 7
+  - levelProgress: 25
+    levelSpeed: 8
+  - levelProgress: 35
+    levelSpeed: 9
+  - levelProgress: 55
+    levelSpeed: 10.5
+  - levelProgress: 65
+    levelSpeed: 11.5
+  - levelProgress: 99
+    levelSpeed: 12
+  - levelProgress: 99
+    levelSpeed: 13
+  scaleFactor: 1.15

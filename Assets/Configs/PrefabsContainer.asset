@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92d55f17db1452ea1d1cbe495350be7, type: 3}
+  m_Name: PrefabsContainer
+  m_EditorClassIdentifier: 
+  player: {fileID: 3110641974870904771, guid: 1c1da2cbd1dc24cfdb0b54eb3756d2ea, type: 3}
+  uiController: {fileID: 2942970627320907339, guid: e22535a44ca394f219c56e87fca2618e,
+    type: 3}

@@ -1,0 +1,11 @@
+diff a/Assets/Materials/Sketch/Environment1/4/Loogs1.mat b/Assets/Materials/Sketch/Environment1/4/Loogs1.mat	(rejected hunks)
+@@ -108,9 +108,6 @@
+     - _UVSec: 0
+     - _ZWrite: 1
+     m_Colors:
+-    - _BaseColor: {r: 0.8679245, g: 0.2579376, b: 0.10153075, a: 1}
+-    - _Color: {r: 0.8679245, g: 0.25793758, b: 0.10153072, a: 1}
+-    - _EmissionColor: {r: 0.05254536, g: 0.07038694, b: 0.33962262, a: 1}
+     - _BaseColor: {r: 0.3773585, g: 0.34684867, b: 0.33962265, a: 1}
+     - _Color: {r: 0.37735847, g: 0.34684864, b: 0.33962262, a: 1}
+     - _EmissionColor: {r: 0.11372549, g: 0, b: 0.028941337, a: 1}

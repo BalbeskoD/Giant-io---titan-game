@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b124fe6a1bef4e44a1130e3dc11c1a60, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  playerBossScale: {x: 10, y: 10, z: 10}
+  rotationSpeed: 10
+  scaleFactor: 0.7
+  allTimeMove: 0
+  levelProgress: 070000000c0000001400000014000000190000001e00000028000000230000002d000000320000003200000032000000320000003200000043000000
+  cameraOffset:
+  - {x: 0, y: 16, z: -14}
+  - {x: 0, y: 16, z: -14}
+  - {x: 0, y: 20, z: -18}
+  - {x: 0, y: 22, z: -20}
+  - {x: 0, y: 24, z: -22}
+  - {x: 0, y: 26, z: -24}
+  - {x: 0, y: 28, z: -26}
+  - {x: 0, y: 30, z: -28}
+  - {x: 0, y: 32, z: -30}
+  - {x: 0, y: 34, z: -32}
+  - {x: 0, y: 36, z: -34}
+  - {x: 0, y: 63, z: -63}
+  - {x: 0, y: 63, z: -63}
+  - {x: 0, y: 63, z: -63}
+  - {x: 0, y: 63, z: -63}
+  levelSpeed:
+  - 4
+  - 5
+  - 6.5
+  - 7
+  - 8.5
+  - 9
+  - 10.5
+  - 11
+  - 12.5
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  levelProgressItems:
+  - levelProgress: 25
+    levelCameraOffset: {x: 0, y: 12, z: -10}
+    levelSpeed: 5
+  - levelProgress: 45
+    levelCameraOffset: {x: 0, y: 17, z: -17}
+    levelSpeed: 6
+  - levelProgress: 75
+    levelCameraOffset: {x: 0, y: 22, z: -22}
+    levelSpeed: 8
+  - levelProgress: 100
+    levelCameraOffset: {x: 0, y: 28, z: -28}
+    levelSpeed: 9
+  - levelProgress: 100
+    levelCameraOffset: {x: 0, y: 34, z: -34}
+    levelSpeed: 10
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 40, z: -40}
+    levelSpeed: 11
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 47, z: -47}
+    levelSpeed: 12
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 53, z: -53}
+    levelSpeed: 13
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 58, z: -58}
+    levelSpeed: 14
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 63, z: -63}
+    levelSpeed: 15
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 63, z: -63}
+    levelSpeed: 15
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 63, z: -63}
+    levelSpeed: 15
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 63, z: -63}
+    levelSpeed: 15
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 63, z: -63}
+    levelSpeed: 15
+  - levelProgress: 150
+    levelCameraOffset: {x: 0, y: 63, z: -63}
+    levelSpeed: 15

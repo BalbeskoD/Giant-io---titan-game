@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82797f719ac6d4a848b6759d376e8861, type: 3}
+  m_Name: ProjectConfigsInstaller
+  m_EditorClassIdentifier: 
+  gameSettings: {fileID: 11400000, guid: 5416757c984714dc8ac980c261e175ee, type: 2}
+  playerSettings: {fileID: 11400000, guid: d13b2f789ae7b4363b48107624b3a6cf, type: 2}
+  prefabsContainer: {fileID: 11400000, guid: 7f9467fc506a949a68bb1a8b0fce03cb, type: 2}
+  playerUpgrade: {fileID: 11400000, guid: 9418b20c49ddd477eb2f4871837ee5f6, type: 2}
+  enemySettings: {fileID: 11400000, guid: 18bf93e0b2824405fbe169467177b07f, type: 2}
+  bossFightSettings: {fileID: 11400000, guid: 6eb03b867c91c4682acc457a48a480a2, type: 2}
